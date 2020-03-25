@@ -1,0 +1,4 @@
+atxvxouljq.mp4_FAKE
+Yolov2 with 20 pixel shorter give drastically better results. Bounded faces give better result for fake prediction. But also gives bad results for real prediction. 
+
+Resize gives bad results. Resize with null padding is better. changed result from 0.003 to 0.37 in fake prediction. dlib is bad at multiface detection from sides.

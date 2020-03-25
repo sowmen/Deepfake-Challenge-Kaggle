@@ -1,0 +1,4 @@
+Cosine similarity
+Euclidean Distance
+Structural Similarity Index
+Mean Squared Error
