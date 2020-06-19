@@ -17,6 +17,7 @@ checkpoint
 *.weights
 *.pyc
 __pycache__/
+*.tar
 # IPython
 profile_default/
 ipython_config.py
